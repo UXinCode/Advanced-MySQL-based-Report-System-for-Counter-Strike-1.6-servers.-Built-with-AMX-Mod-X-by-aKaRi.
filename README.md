@@ -210,15 +210,16 @@ Suggestions, improvements and bug reports are welcome.
 Take a look at Report System by aKaRi in action.
 
 ### Main Menu
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](./screenshots/main-menu.png)
 
 ### Info Tutor
-![Report Menu](screenshots/report-menu.png)
+![Info Tutor](./screenshots/info-tutor.png)
 
 ### Administration Panel
-![Administration Panel](screenshots/admin-panel.png)
+![Administration Panel](./screenshots/administration-panel.png)
 
 ---
+
 
 **Report System by aKaRi** – Designed for Counter-Strike 1.6 servers.
 **Report System by aKaRi**  
