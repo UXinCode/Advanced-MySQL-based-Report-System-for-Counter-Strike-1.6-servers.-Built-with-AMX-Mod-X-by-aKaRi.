@@ -203,5 +203,23 @@ Suggestions, improvements and bug reports are welcome.
 
 ---
 
+---
+
+## 📸 Screenshots
+
+Take a look at Report System by aKaRi in action.
+
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Info Tutor
+![Report Menu](screenshots/report-menu.png)
+
+### Administration Panel
+![Administration Panel](screenshots/admin-panel.png)
+
+---
+
+**Report System by aKaRi** – Designed for Counter-Strike 1.6 servers.
 **Report System by aKaRi**  
 *Making Counter-Strike 1.6 server administration easier, one report at a time.*
