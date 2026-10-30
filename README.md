@@ -58,8 +58,8 @@ The system also includes a dedicated administration panel with a custom MOTD int
 
 | Command | Description |
 |---|---|
-| `/traport` | Opens the player reporting menu. |
-| `/traporty` | Opens the administration report panel. |
+| `/raport` | Opens the player reporting menu. |
+| `/raporty` | Opens the administration report panel. |
 
 Commands are available in both public and team chat.
 
@@ -92,7 +92,7 @@ You can change this permission by modifying the definition in the source code.
 ## 📥 Installation
 
 1. Download the repository.
-2. Copy `CsWiaderko-ReportSystem.sma` into your AMXX source directory:
+2. Copy `ReportSystem.sma` into your AMXX source directory:
 
    `addons/amxmodx/scripting/`
 
@@ -176,7 +176,7 @@ The project is written in **Pawn** for AMX Mod X.
 
 Main source file:
 
-`CsWiaderko-ReportSystem.sma`
+`ReportSystem.sma`
 
 The source code can be modified and adapted to individual server requirements.
 
